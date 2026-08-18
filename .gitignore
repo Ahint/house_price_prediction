@@ -217,3 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 uv.lock
+
+house_price_prediction.code-workspace
