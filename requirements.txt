@@ -1,0 +1,5 @@
+ipykernel
+seaborn
+joblib
+streamlit
+scikit-learn
